@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29382388451",
+    "project_id": "needfood-a03d3",
+    "storage_bucket": "needfood-a03d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29382388451:android:77927feb879319188473d6",
+        "android_client_info": {
+          "package_name": "uz.dilshodjon.need_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29382388451-cmlvgp03d7fut6ub5146kjhcfq1tjmgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyOEhi6WC7A7XC5Sf3B072MllUKRsT8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29382388451-cmlvgp03d7fut6ub5146kjhcfq1tjmgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
